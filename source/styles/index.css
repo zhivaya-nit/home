@@ -142,20 +142,20 @@ section img{
 }
 
 footer {    
-   /* margin-top: 2rem;
-    border-style: solid;
-    border-width: 5px;
-    border-top-color: #500b0b;
-    border-left: 0;
-    border-right: 0;
-    border-bottom: 0;
-    padding: 15px;*/
-    /* Rectangle 2 */
-	height: 67px;
-	margin: -8px;
+	margin-left: -22px; 
 	margin-top: 0 px;
+	padding-left: 50px;
+	padding-top: 35px;
+	padding-bottom: 16px;
 	background: #6B2E3E;
+	color: #FDF8F0;
+}
 
+footer a{
+	color: #FDF8F0;
+}
+footer h2{
+	padding-left: 40px;
 }
 
 /*
