@@ -141,7 +141,8 @@ section img{
 	/*margin-top: 3px;*/
 }
 
-footer {    
+footer {
+	margin: -8px;
 	margin-left: -22px; 
 	margin-top: 0 px;
 	padding-left: 50px;
